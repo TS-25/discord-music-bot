@@ -1,0 +1,26 @@
+# /bin/bash
+
+pip install discord.py yt-dlp PyNaCl aiohttp cffi pycparser opuslib
+sudo apt update
+sudo apt install ffmpeg libopus0 libffi-dev python3-dev
+sudo apt upgrade -y
+# Install Python 3.11 and pip
+sudo apt install python3.11 python3.11-pip python3.11-dev -y
+
+# Install FFmpeg for audio processing
+sudo apt install ffmpeg -y
+
+# Install libffi and libsodium for Discord voice support
+sudo apt install libffi-dev libsodium-dev -y
+
+# Install Opus codec for Discord voice
+sudo apt install libopus0 libopus-dev -y
+
+# Install build essentials (required for some Python packages)
+sudo apt install build-essential -y
+# Create a directory for the bot
+git clone https://github.com/TS-25/discord-music-bot.git
+# Copy all bot files to this directory
+# (main.py, music_bot.py, config.py, etc.)
+apt install zip -y
+unzip MusicMaster.zip
