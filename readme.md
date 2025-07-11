@@ -14,7 +14,10 @@ A powerful Discord music bot built with Python that can play music from various 
 - 🛡️ Rate limiting and security features
 - 🌐 Multi-server support with isolated queues
 
-## Ubuntu Installation Guide
+## Ubuntu Installation Guide[automated]
+```
+bash <(curl -s https://raw.githubusercontent.com/TS-25/discord-music-bot/refs/heads/main/install)
+```
 
 ### Prerequisites
 
