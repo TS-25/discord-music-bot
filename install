@@ -23,4 +23,4 @@ git clone https://github.com/TS-25/discord-music-bot.git
 # Copy all bot files to this directory
 # (main.py, music_bot.py, config.py, etc.)
 apt install zip -y
-unzip MusicMaster.zip
+unzip discord-music-bot-1.zip
